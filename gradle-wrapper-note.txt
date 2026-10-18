@@ -1,0 +1,1 @@
+Este paquete no incluye gradle-wrapper.jar ni un APK compilado. Abre el proyecto con Android Studio para que el IDE configure Gradle y descargue las dependencias necesarias.
